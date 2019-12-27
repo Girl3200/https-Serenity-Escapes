@@ -26,3 +26,407 @@ warning: adding embedded git repository: https-Serenity-Escapes
 warning: adding embedded git repository: newproject
 > git show :Desktop/Serenity-Escapes-Updated-Version/styles.css
 > git add -A -- .
+> git show :Desktop/Serenity-Escapes-Updated-Version/styles.css
+> git show :Desktop/Serenity-Escapes-Updated-Version/styles.css
+> git show :Desktop/Serenity-Escapes-Updated-Version/index.html
+> git show :Desktop/Serenity-Escapes-Updated-Version/index.html
+> git show :Desktop/Serenity-Escapes-Updated-Version/index.html
+> git show :Desktop/Serenity-Escapes-Updated-Version/styles.css
+> git show :Desktop/Serenity-Escapes-Updated-Version/index.html
+> git show :Desktop/Serenity-Escapes-Updated-Version/styles.css
+> git show :Desktop/Serenity-Escapes-Updated-Version/index.html
+> git show :Desktop/Serenity-Escapes-Updated-Version/index.html
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git branch
+> git rm --cached -r -- .
+error: the following files have staged content different from both the
+file and the HEAD:
+    .bash_history
+    .cache/google-chrome/Default/Cache/11d8b047370670d7_0
+    .cache/google-chrome/Default/Cache/166ade3c95c50ecb_0
+    .cache/google-chrome/Default/Cache/1d098e82b18ad80a_0
+    .cache/google-chrome/Default/Cache/1d84ad784da67758_0
+    .cache/google-chrome/Default/Cache/1deced2818d32053_0
+    .cache/google-chrome/Default/Cache/1e1bf3adeedd6299_0
+    .cache/google-chrome/Default/Cache/206dcffdc2a84077_0
+    .cache/google-chrome/Default/Cache/207dcf3277624fcf_0
+    .cache/google-chrome/Default/Cache/2131b0ce98e00a26_0
+    .cache/google-chrome/Default/Cache/27d11c2a50e1688d_0
+    .cache/google-chrome/Default/Cache/2940195bd9870d6e_0
+    .cache/google-chrome/Default/Cache/39d8e5b6b3e34d7f_0
+    .cache/google-chrome/Default/Cache/3c3698ce343deb6c_0
+    .cache/google-chrome/Default/Cache/402cb84278b4329d_0
+    .cache/google-chrome/Default/Cache/42f057d6d1a7121a_0
+    .cache/google-chrome/Default/Cache/44a798c968f3d288_0
+    .cache/google-chrome/Default/Cache/45e6350ab320e15a_0
+    .cache/google-chrome/Default/Cache/4c3f7db13c00f9c5_0
+    .cache/google-chrome/Default/Cache/4dfa87bac2efaadf_0
+    .cache/google-chrome/Default/Cache/5f6f3f9d82fa5559_0
+    .cache/google-chrome/Default/Cache/72629e8e3d614bea_0
+    .cache/google-chrome/Default/Cache/76cfa8808d67b055_0
+    .cache/google-chrome/Default/Cache/79232ae9ea4e4135_0
+    .cache/google-chrome/Default/Cache/7cfb4e3e959b8551_0
+    .cache/google-chrome/Default/Cache/83db05b2c57f8190_0
+    .cache/google-chrome/Default/Cache/9c8fa518b964b2e1_0
+    .cache/google-chrome/Default/Cache/a6d9080283ef4f8a_0
+    .cache/google-chrome/Default/Cache/b052bfc32402fc50_0
+    .cache/google-chrome/Default/Cache/b32dd68bd6163f90_0
+    .cache/google-chrome/Default/Cache/b87c4bbc030c293d_0
+    .cache/google-chrome/Default/Cache/bbf0793d7d7f8cf5_0
+    .cache/google-chrome/Default/Cache/bfd43fa14dcb4a60_0
+    .cache/google-chrome/Default/Cache/bfda905b97cf357e_0
+    .cache/google-chrome/Default/Cache/c6484661906e1ae0_0
+    .cache/google-chrome/Default/Cache/c7f44142b64a2714_0
+    .cache/google-chrome/Default/Cache/cad67f38f8e0c3ca_0
+    .cache/google-chrome/Default/Cache/ceaa59ad6650bdf7_0
+    .cache/google-chrome/Default/Cache/dc34cac1c4b95544_0
+    .cache/google-chrome/Default/Cache/e5cef73082867c4a_0
+    .cache/google-chrome/Default/Cache/e7548c504cd688ac_0
+    .cache/google-chrome/Default/Cache/e8a94e62ec8d9d83_0
+    .cache/google-chrome/Default/Cache/ed24ea0b3aa8eb36_0
+    .cache/google-chrome/Default/Cache/f0b6a5d7bbf8c47b_0
+    .cache/google-chrome/Default/Cache/f841aaff45165825_0
+    .cache/google-chrome/Default/Cache/index-dir/the-real-index
+    .cache/google-chrome/Default/Code Cache/js/2a9ec3e615476ffc_0
+    .cache/google-chrome/Default/Code Cache/js/392d9ba834579827_0
+    .cache/google-chrome/Default/Code Cache/js/4a6673b9dd9c7440_0
+    .cache/google-chrome/Default/Code Cache/js/52365f010dcd67c6_0
+    .cache/google-chrome/Default/Code Cache/js/627ea438339adc1f_0
+    .cache/google-chrome/Default/Code Cache/js/664f61963a573741_0
+    .cache/google-chrome/Default/Code Cache/js/889064c64cdac838_0
+    .cache/google-chrome/Default/Code Cache/js/b745f888da29dd16_0
+    .cache/google-chrome/Default/Code Cache/js/f6c9aa75bd2d500b_0
+    .cache/google-chrome/Default/Code Cache/js/index-dir/the-real-index
+    .config/Code/Cache/index-dir/the-real-index
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/Sender-164e8c64c948a361878eecada5c5ed72.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/bindings-5dbccbe23bea19b219468599f7ee17a4.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/bom-handling-07f8d29ad398e95d202cd587a6b8daeb.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extension-a439c98f11c37f0abff96e214305f358.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extension-aeb473ae05ad8b26bd49748a2351ca16.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extensionHo
+> git branch
+> git rm --cached -r -- .
+error: the following files have staged content different from both the
+file and the HEAD:
+    .bash_history
+    .cache/google-chrome/Default/Cache/11d8b047370670d7_0
+    .cache/google-chrome/Default/Cache/166ade3c95c50ecb_0
+    .cache/google-chrome/Default/Cache/1d098e82b18ad80a_0
+    .cache/google-chrome/Default/Cache/1d84ad784da67758_0
+    .cache/google-chrome/Default/Cache/1deced2818d32053_0
+    .cache/google-chrome/Default/Cache/1e1bf3adeedd6299_0
+    .cache/google-chrome/Default/Cache/206dcffdc2a84077_0
+    .cache/google-chrome/Default/Cache/207dcf3277624fcf_0
+    .cache/google-chrome/Default/Cache/2131b0ce98e00a26_0
+    .cache/google-chrome/Default/Cache/27d11c2a50e1688d_0
+    .cache/google-chrome/Default/Cache/2940195bd9870d6e_0
+    .cache/google-chrome/Default/Cache/39d8e5b6b3e34d7f_0
+    .cache/google-chrome/Default/Cache/3c3698ce343deb6c_0
+    .cache/google-chrome/Default/Cache/402cb84278b4329d_0
+    .cache/google-chrome/Default/Cache/42f057d6d1a7121a_0
+    .cache/google-chrome/Default/Cache/44a798c968f3d288_0
+    .cache/google-chrome/Default/Cache/45e6350ab320e15a_0
+    .cache/google-chrome/Default/Cache/4c3f7db13c00f9c5_0
+    .cache/google-chrome/Default/Cache/4dfa87bac2efaadf_0
+    .cache/google-chrome/Default/Cache/5f6f3f9d82fa5559_0
+    .cache/google-chrome/Default/Cache/72629e8e3d614bea_0
+    .cache/google-chrome/Default/Cache/76cfa8808d67b055_0
+    .cache/google-chrome/Default/Cache/79232ae9ea4e4135_0
+    .cache/google-chrome/Default/Cache/7cfb4e3e959b8551_0
+    .cache/google-chrome/Default/Cache/83db05b2c57f8190_0
+    .cache/google-chrome/Default/Cache/9c8fa518b964b2e1_0
+    .cache/google-chrome/Default/Cache/a6d9080283ef4f8a_0
+    .cache/google-chrome/Default/Cache/b052bfc32402fc50_0
+    .cache/google-chrome/Default/Cache/b32dd68bd6163f90_0
+    .cache/google-chrome/Default/Cache/b87c4bbc030c293d_0
+    .cache/google-chrome/Default/Cache/bbf0793d7d7f8cf5_0
+    .cache/google-chrome/Default/Cache/bfd43fa14dcb4a60_0
+    .cache/google-chrome/Default/Cache/bfda905b97cf357e_0
+    .cache/google-chrome/Default/Cache/c6484661906e1ae0_0
+    .cache/google-chrome/Default/Cache/c7f44142b64a2714_0
+    .cache/google-chrome/Default/Cache/cad67f38f8e0c3ca_0
+    .cache/google-chrome/Default/Cache/ceaa59ad6650bdf7_0
+    .cache/google-chrome/Default/Cache/dc34cac1c4b95544_0
+    .cache/google-chrome/Default/Cache/e5cef73082867c4a_0
+    .cache/google-chrome/Default/Cache/e7548c504cd688ac_0
+    .cache/google-chrome/Default/Cache/e8a94e62ec8d9d83_0
+    .cache/google-chrome/Default/Cache/ed24ea0b3aa8eb36_0
+    .cache/google-chrome/Default/Cache/f0b6a5d7bbf8c47b_0
+    .cache/google-chrome/Default/Cache/f841aaff45165825_0
+    .cache/google-chrome/Default/Cache/index-dir/the-real-index
+    .cache/google-chrome/Default/Code Cache/js/2a9ec3e615476ffc_0
+    .cache/google-chrome/Default/Code Cache/js/392d9ba834579827_0
+    .cache/google-chrome/Default/Code Cache/js/4a6673b9dd9c7440_0
+    .cache/google-chrome/Default/Code Cache/js/52365f010dcd67c6_0
+    .cache/google-chrome/Default/Code Cache/js/627ea438339adc1f_0
+    .cache/google-chrome/Default/Code Cache/js/664f61963a573741_0
+    .cache/google-chrome/Default/Code Cache/js/889064c64cdac838_0
+    .cache/google-chrome/Default/Code Cache/js/b745f888da29dd16_0
+    .cache/google-chrome/Default/Code Cache/js/f6c9aa75bd2d500b_0
+    .cache/google-chrome/Default/Code Cache/js/index-dir/the-real-index
+    .config/Code/Cache/index-dir/the-real-index
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/Sender-164e8c64c948a361878eecada5c5ed72.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/bindings-5dbccbe23bea19b219468599f7ee17a4.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/bom-handling-07f8d29ad398e95d202cd587a6b8daeb.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extension-a439c98f11c37f0abff96e214305f358.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extension-aeb473ae05ad8b26bd49748a2351ca16.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extensionHo
+> git branch
+> git rm --cached -r -- .
+error: the following files have staged content different from both the
+file and the HEAD:
+    .bash_history
+    .cache/google-chrome/Default/Cache/11d8b047370670d7_0
+    .cache/google-chrome/Default/Cache/166ade3c95c50ecb_0
+    .cache/google-chrome/Default/Cache/1d098e82b18ad80a_0
+    .cache/google-chrome/Default/Cache/1d84ad784da67758_0
+    .cache/google-chrome/Default/Cache/1deced2818d32053_0
+    .cache/google-chrome/Default/Cache/1e1bf3adeedd6299_0
+    .cache/google-chrome/Default/Cache/206dcffdc2a84077_0
+    .cache/google-chrome/Default/Cache/207dcf3277624fcf_0
+    .cache/google-chrome/Default/Cache/2131b0ce98e00a26_0
+    .cache/google-chrome/Default/Cache/27d11c2a50e1688d_0
+    .cache/google-chrome/Default/Cache/2940195bd9870d6e_0
+    .cache/google-chrome/Default/Cache/39d8e5b6b3e34d7f_0
+    .cache/google-chrome/Default/Cache/3c3698ce343deb6c_0
+    .cache/google-chrome/Default/Cache/402cb84278b4329d_0
+    .cache/google-chrome/Default/Cache/42f057d6d1a7121a_0
+    .cache/google-chrome/Default/Cache/44a798c968f3d288_0
+    .cache/google-chrome/Default/Cache/45e6350ab320e15a_0
+    .cache/google-chrome/Default/Cache/4c3f7db13c00f9c5_0
+    .cache/google-chrome/Default/Cache/4dfa87bac2efaadf_0
+    .cache/google-chrome/Default/Cache/5f6f3f9d82fa5559_0
+    .cache/google-chrome/Default/Cache/72629e8e3d614bea_0
+    .cache/google-chrome/Default/Cache/76cfa8808d67b055_0
+    .cache/google-chrome/Default/Cache/79232ae9ea4e4135_0
+    .cache/google-chrome/Default/Cache/7cfb4e3e959b8551_0
+    .cache/google-chrome/Default/Cache/83db05b2c57f8190_0
+    .cache/google-chrome/Default/Cache/9c8fa518b964b2e1_0
+    .cache/google-chrome/Default/Cache/a6d9080283ef4f8a_0
+    .cache/google-chrome/Default/Cache/b052bfc32402fc50_0
+    .cache/google-chrome/Default/Cache/b32dd68bd6163f90_0
+    .cache/google-chrome/Default/Cache/b87c4bbc030c293d_0
+    .cache/google-chrome/Default/Cache/bbf0793d7d7f8cf5_0
+    .cache/google-chrome/Default/Cache/bfd43fa14dcb4a60_0
+    .cache/google-chrome/Default/Cache/bfda905b97cf357e_0
+    .cache/google-chrome/Default/Cache/c6484661906e1ae0_0
+    .cache/google-chrome/Default/Cache/c7f44142b64a2714_0
+    .cache/google-chrome/Default/Cache/cad67f38f8e0c3ca_0
+    .cache/google-chrome/Default/Cache/ceaa59ad6650bdf7_0
+    .cache/google-chrome/Default/Cache/dc34cac1c4b95544_0
+    .cache/google-chrome/Default/Cache/e5cef73082867c4a_0
+    .cache/google-chrome/Default/Cache/e7548c504cd688ac_0
+    .cache/google-chrome/Default/Cache/e8a94e62ec8d9d83_0
+    .cache/google-chrome/Default/Cache/ed24ea0b3aa8eb36_0
+    .cache/google-chrome/Default/Cache/f0b6a5d7bbf8c47b_0
+    .cache/google-chrome/Default/Cache/f841aaff45165825_0
+    .cache/google-chrome/Default/Cache/index-dir/the-real-index
+    .cache/google-chrome/Default/Code Cache/js/2a9ec3e615476ffc_0
+    .cache/google-chrome/Default/Code Cache/js/392d9ba834579827_0
+    .cache/google-chrome/Default/Code Cache/js/4a6673b9dd9c7440_0
+    .cache/google-chrome/Default/Code Cache/js/52365f010dcd67c6_0
+    .cache/google-chrome/Default/Code Cache/js/627ea438339adc1f_0
+    .cache/google-chrome/Default/Code Cache/js/664f61963a573741_0
+    .cache/google-chrome/Default/Code Cache/js/889064c64cdac838_0
+    .cache/google-chrome/Default/Code Cache/js/b745f888da29dd16_0
+    .cache/google-chrome/Default/Code Cache/js/f6c9aa75bd2d500b_0
+    .cache/google-chrome/Default/Code Cache/js/index-dir/the-real-index
+    .config/Code/Cache/index-dir/the-real-index
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/Sender-164e8c64c948a361878eecada5c5ed72.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/bindings-5dbccbe23bea19b219468599f7ee17a4.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/bom-handling-07f8d29ad398e95d202cd587a6b8daeb.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extension-a439c98f11c37f0abff96e214305f358.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extension-aeb473ae05ad8b26bd49748a2351ca16.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extensionHo
+> git checkout -q -- /home/computer/.bash_history /home/computer/.cache/google-chrome/Default/Cache/11d8b047370670d7_0 /home/computer/.cache/google-chrome/Default/Cache/166ade3c95c50ecb_0 /home/computer/.cache/google-chrome/Default/Cache/1d098e82b18ad80a_0 /home/computer/.cache/google-chrome/Default/Cache/1d84ad784da67758_0 /home/computer/.cache/google-chrome/Default/Cache/1deced2818d32053_0 /home/computer/.cache/google-chrome/Default/Cache/1e1bf3adeedd6299_0 /home/computer/.cache/google-chrome/Default/Cache/206dcffdc2a84077_0 /home/computer/.cache/google-chrome/Default/Cache/207dcf3277624fcf_0 /home/computer/.cache/google-chrome/Default/Cache/2131b0ce98e00a26_0 /home/computer/.cache/google-chrome/Default/Cache/27d11c2a50e1688d_0 /home/computer/.cache/google-chrome/Default/Cache/2940195bd9870d6e_0 /home/computer/.cache/google-chrome/Default/Cache/3c3698ce343deb6c_0 /home/computer/.cache/google-chrome/Default/Cache/402cb84278b4329d_0 /home/computer/.cache/google-chrome/Default/Cache/44a798c968f3d288_0 /home/computer/.cache/google-chrome/Default/Cache/45e6350ab320e15a_0 /home/computer/.cache/google-chrome/Default/Cache/4c3f7db13c00f9c5_0 /home/computer/.cache/google-chrome/Default/Cache/5f6f3f9d82fa5559_0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Desktop/Serenity-Escapes-Updated-Version/index.html
+> git checkout -q -- /home/computer/.cache/google-chrome/Default/Cache/39d8e5b6b3e34d7f_0 /home/computer/.cache/google-chrome/Default/Cache/42f057d6d1a7121a_0 /home/computer/.cache/google-chrome/Default/Cache/4dfa87bac2efaadf_0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Desktop/Serenity-Escapes-Updated-Version/index.html
+> git branch
+> git rm --cached -r -- .
+error: the following files have staged content different from both the
+file and the HEAD:
+    .cache/google-chrome/Default/Cache/72629e8e3d614bea_0
+    .cache/google-chrome/Default/Cache/76cfa8808d67b055_0
+    .cache/google-chrome/Default/Cache/79232ae9ea4e4135_0
+    .cache/google-chrome/Default/Cache/7cfb4e3e959b8551_0
+    .cache/google-chrome/Default/Cache/83db05b2c57f8190_0
+    .cache/google-chrome/Default/Cache/9c8fa518b964b2e1_0
+    .cache/google-chrome/Default/Cache/a6d9080283ef4f8a_0
+    .cache/google-chrome/Default/Cache/b052bfc32402fc50_0
+    .cache/google-chrome/Default/Cache/b32dd68bd6163f90_0
+    .cache/google-chrome/Default/Cache/b87c4bbc030c293d_0
+    .cache/google-chrome/Default/Cache/bbf0793d7d7f8cf5_0
+    .cache/google-chrome/Default/Cache/bfd43fa14dcb4a60_0
+    .cache/google-chrome/Default/Cache/bfda905b97cf357e_0
+    .cache/google-chrome/Default/Cache/c6484661906e1ae0_0
+    .cache/google-chrome/Default/Cache/c7f44142b64a2714_0
+    .cache/google-chrome/Default/Cache/cad67f38f8e0c3ca_0
+    .cache/google-chrome/Default/Cache/ceaa59ad6650bdf7_0
+    .cache/google-chrome/Default/Cache/dc34cac1c4b95544_0
+    .cache/google-chrome/Default/Cache/e5cef73082867c4a_0
+    .cache/google-chrome/Default/Cache/e7548c504cd688ac_0
+    .cache/google-chrome/Default/Cache/e8a94e62ec8d9d83_0
+    .cache/google-chrome/Default/Cache/ed24ea0b3aa8eb36_0
+    .cache/google-chrome/Default/Cache/f0b6a5d7bbf8c47b_0
+    .cache/google-chrome/Default/Cache/f841aaff45165825_0
+    .cache/google-chrome/Default/Cache/index-dir/the-real-index
+    .cache/google-chrome/Default/Code Cache/js/2a9ec3e615476ffc_0
+    .cache/google-chrome/Default/Code Cache/js/392d9ba834579827_0
+    .cache/google-chrome/Default/Code Cache/js/4a6673b9dd9c7440_0
+    .cache/google-chrome/Default/Code Cache/js/52365f010dcd67c6_0
+    .cache/google-chrome/Default/Code Cache/js/627ea438339adc1f_0
+    .cache/google-chrome/Default/Code Cache/js/664f61963a573741_0
+    .cache/google-chrome/Default/Code Cache/js/889064c64cdac838_0
+    .cache/google-chrome/Default/Code Cache/js/b745f888da29dd16_0
+    .cache/google-chrome/Default/Code Cache/js/f6c9aa75bd2d500b_0
+    .cache/google-chrome/Default/Code Cache/js/index-dir/the-real-index
+    .config/Code/Cache/index-dir/the-real-index
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/Sender-164e8c64c948a361878eecada5c5ed72.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/bindings-5dbccbe23bea19b219468599f7ee17a4.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/bom-handling-07f8d29ad398e95d202cd587a6b8daeb.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extension-a439c98f11c37f0abff96e214305f358.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extension-aeb473ae05ad8b26bd49748a2351ca16.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extensionHostProcess-e938e956bfb0c9959093b831ef2b29d0.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/graceful-fs-ab21b6aa861b1ddc39a1f09feb6d1f44.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/index-897563aa63f5c3c2ab211631671d85e1.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/index-eea82fa8e9999159df93b2cdb937f56d.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/main-07545b03ebcb948a5ff07e27f81d89ef.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/main-607528d097eabd74f62cc04b544397c2.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/polyfills-cca83a712557f28d09b594ba71df6fce.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/semver-umd-2dc558f83c5146e3bba42956f922d040.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/sharedProcessMain-6a477d31ed7cc912edfc1e90668e15f4.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/sqlite3-816574f98bfb862eda1972ed0e40cd3c.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/workbench.desktop
+> git check-ignore -v -z --stdin
+> git show HEAD:.cache/fontconfig/1ac9eb803944fde146138c791f5cc56a-le64.cache-7
+> git show :.cache/fontconfig/1ac9eb803944fde146138c791f5cc56a-le64.cache-7
+> git check-ignore -v -z --stdin
+> git show HEAD:.cache/fontconfig/3f7329c5293ffd510edef78f73874cfd-le64.cache-7
+> git show :.cache/fontconfig/3f7329c5293ffd510edef78f73874cfd-le64.cache-7
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git branch
+> git rm --cached -r -- .
+error: the following files have staged content different from both the
+file and the HEAD:
+    .cache/google-chrome/Default/Cache/72629e8e3d614bea_0
+    .cache/google-chrome/Default/Cache/76cfa8808d67b055_0
+    .cache/google-chrome/Default/Cache/79232ae9ea4e4135_0
+    .cache/google-chrome/Default/Cache/7cfb4e3e959b8551_0
+    .cache/google-chrome/Default/Cache/83db05b2c57f8190_0
+    .cache/google-chrome/Default/Cache/9c8fa518b964b2e1_0
+    .cache/google-chrome/Default/Cache/a6d9080283ef4f8a_0
+    .cache/google-chrome/Default/Cache/b052bfc32402fc50_0
+    .cache/google-chrome/Default/Cache/b32dd68bd6163f90_0
+    .cache/google-chrome/Default/Cache/b87c4bbc030c293d_0
+    .cache/google-chrome/Default/Cache/bbf0793d7d7f8cf5_0
+    .cache/google-chrome/Default/Cache/bfd43fa14dcb4a60_0
+    .cache/google-chrome/Default/Cache/bfda905b97cf357e_0
+    .cache/google-chrome/Default/Cache/c6484661906e1ae0_0
+    .cache/google-chrome/Default/Cache/c7f44142b64a2714_0
+    .cache/google-chrome/Default/Cache/cad67f38f8e0c3ca_0
+    .cache/google-chrome/Default/Cache/ceaa59ad6650bdf7_0
+    .cache/google-chrome/Default/Cache/dc34cac1c4b95544_0
+    .cache/google-chrome/Default/Cache/e5cef73082867c4a_0
+    .cache/google-chrome/Default/Cache/e7548c504cd688ac_0
+    .cache/google-chrome/Default/Cache/e8a94e62ec8d9d83_0
+    .cache/google-chrome/Default/Cache/ed24ea0b3aa8eb36_0
+    .cache/google-chrome/Default/Cache/f0b6a5d7bbf8c47b_0
+    .cache/google-chrome/Default/Cache/f841aaff45165825_0
+    .cache/google-chrome/Default/Cache/index-dir/the-real-index
+    .cache/google-chrome/Default/Code Cache/js/2a9ec3e615476ffc_0
+    .cache/google-chrome/Default/Code Cache/js/392d9ba834579827_0
+    .cache/google-chrome/Default/Code Cache/js/4a6673b9dd9c7440_0
+    .cache/google-chrome/Default/Code Cache/js/52365f010dcd67c6_0
+    .cache/google-chrome/Default/Code Cache/js/627ea438339adc1f_0
+    .cache/google-chrome/Default/Code Cache/js/664f61963a573741_0
+    .cache/google-chrome/Default/Code Cache/js/889064c64cdac838_0
+    .cache/google-chrome/Default/Code Cache/js/b745f888da29dd16_0
+    .cache/google-chrome/Default/Code Cache/js/f6c9aa75bd2d500b_0
+    .cache/google-chrome/Default/Code Cache/js/index-dir/the-real-index
+    .config/Code/Cache/index-dir/the-real-index
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/Sender-164e8c64c948a361878eecada5c5ed72.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/bindings-5dbccbe23bea19b219468599f7ee17a4.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/bom-handling-07f8d29ad398e95d202cd587a6b8daeb.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extension-a439c98f11c37f0abff96e214305f358.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extension-aeb473ae05ad8b26bd49748a2351ca16.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/extensionHostProcess-e938e956bfb0c9959093b831ef2b29d0.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/graceful-fs-ab21b6aa861b1ddc39a1f09feb6d1f44.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/index-897563aa63f5c3c2ab211631671d85e1.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/index-eea82fa8e9999159df93b2cdb937f56d.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/main-07545b03ebcb948a5ff07e27f81d89ef.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/main-607528d097eabd74f62cc04b544397c2.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/polyfills-cca83a712557f28d09b594ba71df6fce.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/semver-umd-2dc558f83c5146e3bba42956f922d040.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/sharedProcessMain-6a477d31ed7cc912edfc1e90668e15f4.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/sqlite3-816574f98bfb862eda1972ed0e40cd3c.code
+    .config/Code/CachedData/26076a4de974ead31f97692a0d32f90d735645c0/workbench.desktop
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git show HEAD:.cache/fontconfig/3f7329c5293ffd510edef78f73874cfd-le64.cache-7
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git add -A -- .
