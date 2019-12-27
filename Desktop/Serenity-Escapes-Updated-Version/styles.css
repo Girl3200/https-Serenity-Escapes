@@ -33,6 +33,7 @@
 .container ul {
     display: inline-flex;
     margin: 50px;
+    color: black;
 }
 .container ul li {
     list-style: none;
