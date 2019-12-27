@@ -1,0 +1,34 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/background.js", "js/chromereload.js" ]
+      }
+   },
+   "default_locale": "en",
+   "description": "SSH Client for Google Chrome",
+   "icons": {
+      "128": "icons/termius_128.png",
+      "16": "icons/termius_16.png",
+      "32": "icons/termius_32.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCX9/pvGWzftBP6aBiteWT65xWWpi79h78vnGgfrzLT0M1ejJJtm8YKX/9CSupokpNUMNbWO8OtsGLrG8zOQ2W4XsxT7GUNqJw+CvLJESoIj9bf+lG+krRDSs2yecOyY/7asJ3veiMpKO4g0X/vp+3I4oRMo9EO6VyQpt5B/Aw04QIDAQAB",
+   "manifest_version": 2,
+   "name": "Termius - SSH Client",
+   "offline_enabled": true,
+   "permissions": [ "browser", "https://www.google-analytics.com/", "*://*/*", "storage", "app.window", "http://dev.crystalnix.com:8010/", "clipboardRead", "clipboardWrite", "unlimitedStorage", "storage", "https://app.getsentry.com/" ],
+   "short_name": "Termius",
+   "sockets": {
+      "tcp": {
+         "connect": "*"
+      },
+      "tcpServer": {
+         "listen": "*"
+      },
+      "udp": {
+         "bind": "*",
+         "send": "*"
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.5"
+}

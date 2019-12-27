@@ -1,0 +1,19 @@
+**** BEGIN LOGGING AT Wed Dec 18 21:47:50 2019
+
+Dec 18 21:47:50 *	Looking up irc.spotchat.org
+**** BEGIN LOGGING AT Thu Dec 26 17:14:47 2019
+
+Dec 26 17:14:47 *	Looking up irc.spotchat.org
+Dec 26 17:14:47 *	Connecting to irc.spotchat.org (2607:fe90:4:b::11:6667)
+Dec 26 17:14:48 *	Connected. Now logging in.
+Dec 26 17:14:48 *	*** Looking up your hostname...
+Dec 26 17:14:48 *	*** Looking up your ident...
+Dec 26 17:14:48 *	Capabilities supported: away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+Dec 26 17:14:48 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Dec 26 17:14:48 *	*** Could not resolve your hostname: Domain name not found; using your IP address (2607:fcc8:b1c5:a400:bd8a:6b18:4c93:b356) instead.
+Dec 26 17:14:48 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Dec 26 17:14:53 *	*** Ident request timed out.
+Dec 26 17:14:53 *	*** Could not find your ident, using ~computer instead.
+Dec 26 17:14:53 *	Welcome to SpotChat!
+**** ENDING LOGGING AT Thu Dec 26 17:14:53 2019
+

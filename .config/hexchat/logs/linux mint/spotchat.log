@@ -1,0 +1,83 @@
+**** BEGIN LOGGING AT Wed Dec 18 21:47:55 2019
+
+Dec 18 21:47:55 *	MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=SpotChat NICKLEN=31 OVERRIDE PREFIX=(Yqaohv)!~&@%+ REMOVE SECURELIST :are supported by this server
+Dec 18 21:47:55 *	SSL=64.57.93.14:6697 STARTTLS STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+Dec 18 21:47:55 *	997AA5RUF :your unique ID
+Dec 18 21:47:55 *	medusa.us.SpotChat.org message of the day
+Dec 18 21:47:55 *	-               _____             __       __          __
+Dec 18 21:47:55 *	-              / ___/____  ____  / /______/ /_  ____ _/ /_
+Dec 18 21:47:55 *	-              \__ \/ __ \/ __ \/ __/ ___/ __ \/ __ `/ __/
+Dec 18 21:47:55 *	-             ___/ / /_/ / /_/ / /_/ /__/ / / / /_/ / /_
+Dec 18 21:47:55 *	-            /____/ .___/\____/\__/\___/_/ /_/\__,_/\__/
+Dec 18 21:47:55 *	-                /__/
+Dec 18 21:47:55 *	-                     http://spotchat.org/imprint/
+Dec 18 21:47:55 *	-                     http://spotchat.org/servers/
+Dec 18 21:47:55 *	- 
+Dec 18 21:47:55 *	- =============================================================================
+Dec 18 21:47:55 *	-                       RULES (FOR THOSE WITHOUT COMMON SENSE)
+Dec 18 21:47:55 *	- =============================================================================
+Dec 18 21:47:55 *	- : On connecting to this Network you are agreeing to be scanned for open
+Dec 18 21:47:55 *	-      Proxies. Please disregard any messages from Monitoring or Security
+Dec 18 21:47:55 *	-      software about this matter, it helps us keep our network a safe place.
+Dec 18 21:47:55 *	- : Bots are allowed if they cause no harm to other Users on this Network or 
+Dec 18 21:47:55 *	-      annoy them in any way. Bots disturbing the normal flow of this Network
+Dec 18 21:47:55 *	-      are not allowed.
+Dec 18 21:47:55 *	- : Bots are to be marked with the usermode +B ( /MODE nick +B )
+Dec 18 21:47:55 *	- : 3 connections per IP are allowed on this IRC Network. Exceptions can be 
+Dec 18 21:47:55 *	-      arranged in consultation with the Operators. 
+Dec 18 21:47:55 *	- : NOT allowed: hacking of any kind, warez, XDCC, dissemination of pornographic content,
+Dec 18 21:47:55 *	-      overexposure of violence, trolling and flooding/spamming.
+Dec 18 21:47:55 *	- : Listen to the IRC Operators and respect their decisions. Decisions made
+Dec 18 21:47:55 *	-      by the IRC Operators are final.
+Dec 18 21:47:55 *	- 
+Dec 18 21:47:55 *	- The Operators of this Network reserve the right to block Channels or Users 
+Dec 18 21:47:55 *	- who breach these rules and to change the above rules without prior notice.
+Dec 18 21:47:55 *	- 
+Dec 18 21:47:55 *	- Anyone who operates computer sabotage against us make themselves liable 
+Dec 18 21:47:55 *	- to prosecution under Section 303b of the German Criminal Code and we will 
+Dec 18 21:47:55 *	- press charges against them.
+Dec 18 21:47:55 *	- 
+Dec 18 21:47:55 *	- =============================================================================
+Dec 18 21:47:55 *	-                       SOME IMPORTANT COMMANDS (NO SHORTCUTS)
+Dec 18 21:47:55 *	- =============================================================================
+Dec 18 21:47:55 *	- vHosts:
+Dec 18 21:47:55 *	-       /MSG HostServ HELP REQUEST
+Dec 18 21:47:55 *	- Nicks:
+Dec 18 21:47:55 *	-       /MSG NickServ HELP REGISTER
+Dec 18 21:47:55 *	-       /MSG NickServ HELP SET
+Dec 18 21:47:55 *	- Channels:
+Dec 18 21:47:55 *	-       /MSG ChanServ HELP REGISTER
+Dec 18 21:47:55 *	-       /MSG ChanServ HELP FLAGS
+Dec 18 21:47:55 *	- 
+Dec 18 21:47:55 *	- =============================================================================
+Dec 18 21:47:55 *	-            SPOTCHAT ADMINISTRATION: See http://spotchat.org/staff/
+Dec 18 21:47:55 *	- =============================================================================
+Dec 18 21:47:55 *	- In case a User is masquerading as an IRC-Op and no Operator can be found
+Dec 18 21:47:55 *	-    please immediately contact Network management!
+Dec 18 21:47:55 *	- 
+Dec 18 21:47:55 *	- Contact Us via (in order of fastest service to slowest): 
+Dec 18 21:47:55 *	- 1) The #SpotChat Channel
+Dec 18 21:47:55 *	- 2) Email us at opers@spotchat.org
+Dec 18 21:47:55 *	- 3) http://spotchat.org/contact/
+Dec 18 21:47:55 *	- =============================================================================
+Dec 18 21:47:55 *	End of message of the day.
+Dec 18 21:47:55 *	There are 18 users and 322 invisible on 6 servers
+Dec 18 21:47:55 *	5 :operator(s) online
+Dec 18 21:47:55 *	1 :unknown connections
+Dec 18 21:47:55 *	78 :channels formed
+Dec 18 21:47:55 *	I have 161 clients and 1 servers
+Dec 18 21:47:55 *	Current Local Users: 161  Max: 360
+Dec 18 21:47:55 *	Current Global Users: 340  Max: 402
+Dec 18 21:47:55 *	SpotChat-l91ito.a966.hqnb.fcc8.2607.IP :is now your displayed host
+Dec 18 21:47:55 *	computer sets mode +i on computer
+Dec 18 21:47:55 *	computer sets mode +x on computer
+Dec 18 21:47:55 *	computer sets mode +R on computer
+Dec 18 21:47:55 -InfoServ-	*** Message(s) of the Day ***
+Dec 18 21:47:55 -InfoServ-	[New connect modes] Notice from r00t, posted 16:57 on 09/05/2018:
+Dec 18 21:47:55 -InfoServ-	We now set usermode +R by default when you connect to SpotChat. This means PMs from unregistered users are blocked. This is a good time to register with SpotChat services if you haven't already. See /msg NickServ help REGISTER   for help with that, or go to the #SpotChat channel.
+Dec 18 21:47:55 -InfoServ-	[SASL Authentication mechanisms] Notice from r00t, posted 01:24 on 03/05/2015:
+Dec 18 21:47:55 -InfoServ-	DH-BLOWFISH and DH-AES is no longer supported. If you are using any of these, please switch to either PLAIN or ECDSA-NIST256p-CHALLENGE
+Dec 18 21:47:55 -InfoServ-	*** End of Message(s) of the Day ***
+Dec 18 21:47:55 -NickServ-	Welcome to SpotChat, computer! Here on SpotChat, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+**** ENDING LOGGING AT Wed Dec 18 21:47:56 2019
+

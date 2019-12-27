@@ -1,0 +1,11 @@
+[Desktop Entry]
+X-SnapInstanceName=github-desktop
+Name=GitHub Desktop
+Comment=Simple collaboration from your desktop
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/github-desktop_github-desktop.desktop /snap/bin/github-desktop
+Terminal=false
+Type=Application
+Icon=/snap/github-desktop/63/meta/gui/icon.png
+StartupWMClass=GitHub Desktop
+MimeType=x-scheme-handler/x-github-client;x-scheme-handler/x-github-desktop-auth;
+Categories=GNOME;GTK;Development;

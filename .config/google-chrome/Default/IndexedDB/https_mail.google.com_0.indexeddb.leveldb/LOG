@@ -1,0 +1,6 @@
+2019/12/26-16:47:44.404 710 Reusing MANIFEST /home/computer/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/12/26-16:47:44.404 710 Recovering log #4
+2019/12/26-16:47:44.430 710 Reusing old log /home/computer/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2019/12/26-16:48:01.398 844 Level-0 table #8: started
+2019/12/26-16:48:01.418 844 Level-0 table #8: 1534946 bytes OK
+2019/12/26-16:48:01.427 844 Delete type=0 #4

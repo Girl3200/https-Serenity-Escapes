@@ -1,0 +1,108 @@
+**** BEGIN LOGGING AT Wed Dec 18 21:47:50 2019
+
+Dec 18 21:47:50 *	*** Looking up your hostname...
+Dec 18 21:47:50 *	*** Looking up your ident...
+Dec 18 21:47:50 *	Capabilities supported: away-notify extended-join account-notify multi-prefix sasl tls userhost-in-names
+Dec 18 21:47:50 *	Capabilities requested: away-notify extended-join account-notify multi-prefix userhost-in-names 
+Dec 18 21:47:50 *	*** Could not resolve your hostname: Domain name not found; using your IP address (2607:fcc8:b1c5:a400:2dde:bf12:fc0f:633f) instead.
+Dec 18 21:47:50 *	Capabilities acknowledged: away-notify extended-join account-notify multi-prefix userhost-in-names
+Dec 18 21:47:55 *	*** Ident request timed out.
+Dec 18 21:47:55 *	*** Could not find your ident, using ~computer instead.
+Dec 18 21:47:55 *	Welcome to SpotChat!
+**** ENDING LOGGING AT Wed Dec 18 21:47:55 2019
+
+**** BEGIN LOGGING AT Wed Dec 18 21:47:55 2019
+
+Dec 18 21:47:55 *	Welcome to the SpotChat IRC Network computer!~computer@2607:fcc8:b1c5:a400:2dde:bf12:fc0f:633f
+Dec 18 21:47:55 *	Your host is medusa.us.SpotChat.org, running version InspIRCd-2.0
+Dec 18 21:47:55 *	This server was created 15:24:37 Apr 19 2019
+Dec 18 21:47:55 *	medusa.us.SpotChat.org InspIRCd-2.0 BHIRSWcdghikorswx ACIJKMNOPQRSTYabceghiklmnopqrstvz IJYabeghkloqv
+Dec 18 21:47:55 *	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=Ibeg,k,Jl,ACKMNOPQRSTcimnprstz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXCEPTS=e EXTBAN=,ACNOQRSTUcmz FNC INVEX=I KICKLEN=255 :are supported by this server
+**** BEGIN LOGGING AT Thu Dec 26 17:14:53 2019
+
+Dec 26 17:14:53 *	Welcome to the SpotChat IRC Network computer!~computer@2607:fcc8:b1c5:a400:bd8a:6b18:4c93:b356
+Dec 26 17:14:53 *	Your host is medusa.us.SpotChat.org, running version InspIRCd-2.0
+Dec 26 17:14:53 *	This server was created 15:24:37 Apr 19 2019
+Dec 26 17:14:53 *	medusa.us.SpotChat.org InspIRCd-2.0 BHIRSWcdghikorswx ACIJKMNOPQRSTYabceghiklmnopqrstvz IJYabeghkloqv
+Dec 26 17:14:53 *	AWAYLEN=200 CALLERID=g CASEMAPPING=rfc1459 CHANMODES=Ibeg,k,Jl,ACKMNOPQRSTcimnprstz CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU EXCEPTS=e EXTBAN=,ACNOQRSTUcmz FNC INVEX=I KICKLEN=255 :are supported by this server
+Dec 26 17:14:53 *	MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 MAXTARGETS=20 MODES=20 NAMESX NETWORK=SpotChat NICKLEN=31 OVERRIDE PREFIX=(Yqaohv)!~&@%+ REMOVE SECURELIST :are supported by this server
+Dec 26 17:14:53 *	SSL=64.57.93.14:6697 STARTTLS STATUSMSG=!~&@%+ TOPICLEN=307 UHNAMES VBANLIST WALLCHOPS WALLVOICES WATCH=32 :are supported by this server
+Dec 26 17:14:53 *	997AA7B52 :your unique ID
+Dec 26 17:14:53 *	medusa.us.SpotChat.org message of the day
+Dec 26 17:14:53 *	-               _____             __       __          __
+Dec 26 17:14:53 *	-              / ___/____  ____  / /______/ /_  ____ _/ /_
+Dec 26 17:14:53 *	-              \__ \/ __ \/ __ \/ __/ ___/ __ \/ __ `/ __/
+Dec 26 17:14:53 *	-             ___/ / /_/ / /_/ / /_/ /__/ / / / /_/ / /_
+Dec 26 17:14:53 *	-            /____/ .___/\____/\__/\___/_/ /_/\__,_/\__/
+Dec 26 17:14:53 *	-                /__/
+Dec 26 17:14:53 *	-                     http://spotchat.org/imprint/
+Dec 26 17:14:53 *	-                     http://spotchat.org/servers/
+Dec 26 17:14:53 *	- 
+Dec 26 17:14:53 *	- =============================================================================
+Dec 26 17:14:53 *	-                       RULES (FOR THOSE WITHOUT COMMON SENSE)
+Dec 26 17:14:53 *	- =============================================================================
+Dec 26 17:14:53 *	- : On connecting to this Network you are agreeing to be scanned for open
+Dec 26 17:14:53 *	-      Proxies. Please disregard any messages from Monitoring or Security
+Dec 26 17:14:53 *	-      software about this matter, it helps us keep our network a safe place.
+Dec 26 17:14:53 *	- : Bots are allowed if they cause no harm to other Users on this Network or 
+Dec 26 17:14:53 *	-      annoy them in any way. Bots disturbing the normal flow of this Network
+Dec 26 17:14:53 *	-      are not allowed.
+Dec 26 17:14:53 *	- : Bots are to be marked with the usermode +B ( /MODE nick +B )
+Dec 26 17:14:53 *	- : 3 connections per IP are allowed on this IRC Network. Exceptions can be 
+Dec 26 17:14:53 *	-      arranged in consultation with the Operators. 
+Dec 26 17:14:53 *	- : NOT allowed: hacking of any kind, warez, XDCC, dissemination of pornographic content,
+Dec 26 17:14:53 *	-      overexposure of violence, trolling and flooding/spamming.
+Dec 26 17:14:53 *	- : Listen to the IRC Operators and respect their decisions. Decisions made
+Dec 26 17:14:53 *	-      by the IRC Operators are final.
+Dec 26 17:14:53 *	- 
+Dec 26 17:14:53 *	- The Operators of this Network reserve the right to block Channels or Users 
+Dec 26 17:14:53 *	- who breach these rules and to change the above rules without prior notice.
+Dec 26 17:14:53 *	- 
+Dec 26 17:14:53 *	- Anyone who operates computer sabotage against us make themselves liable 
+Dec 26 17:14:53 *	- to prosecution under Section 303b of the German Criminal Code and we will 
+Dec 26 17:14:53 *	- press charges against them.
+Dec 26 17:14:53 *	- 
+Dec 26 17:14:53 *	- =============================================================================
+Dec 26 17:14:53 *	-                       SOME IMPORTANT COMMANDS (NO SHORTCUTS)
+Dec 26 17:14:53 *	- =============================================================================
+Dec 26 17:14:53 *	- vHosts:
+Dec 26 17:14:53 *	-       /MSG HostServ HELP REQUEST
+Dec 26 17:14:53 *	- Nicks:
+Dec 26 17:14:53 *	-       /MSG NickServ HELP REGISTER
+Dec 26 17:14:53 *	-       /MSG NickServ HELP SET
+Dec 26 17:14:53 *	- Channels:
+Dec 26 17:14:53 *	-       /MSG ChanServ HELP REGISTER
+Dec 26 17:14:53 *	-       /MSG ChanServ HELP FLAGS
+Dec 26 17:14:53 *	- 
+Dec 26 17:14:53 *	- =============================================================================
+Dec 26 17:14:53 *	-            SPOTCHAT ADMINISTRATION: See http://spotchat.org/staff/
+Dec 26 17:14:53 *	- =============================================================================
+Dec 26 17:14:53 *	- In case a User is masquerading as an IRC-Op and no Operator can be found
+Dec 26 17:14:53 *	-    please immediately contact Network management!
+Dec 26 17:14:53 *	- 
+Dec 26 17:14:53 *	- Contact Us via (in order of fastest service to slowest): 
+Dec 26 17:14:53 *	- 1) The #SpotChat Channel
+Dec 26 17:14:53 *	- 2) Email us at opers@spotchat.org
+Dec 26 17:14:53 *	- 3) http://spotchat.org/contact/
+Dec 26 17:14:53 *	- =============================================================================
+Dec 26 17:14:53 *	End of message of the day.
+Dec 26 17:14:53 *	There are 18 users and 334 invisible on 6 servers
+Dec 26 17:14:53 *	5 :operator(s) online
+Dec 26 17:14:53 *	1 :unknown connections
+Dec 26 17:14:53 *	70 :channels formed
+Dec 26 17:14:53 *	I have 166 clients and 1 servers
+Dec 26 17:14:53 *	Current Local Users: 166  Max: 360
+Dec 26 17:14:53 *	Current Global Users: 352  Max: 402
+Dec 26 17:14:53 *	SpotChat-65lv87.a966.hqnb.fcc8.2607.IP :is now your displayed host
+Dec 26 17:14:53 *	computer sets mode +i on computer
+Dec 26 17:14:53 *	computer sets mode +x on computer
+Dec 26 17:14:53 *	computer sets mode +R on computer
+Dec 26 17:14:53 -InfoServ-	*** Message(s) of the Day ***
+Dec 26 17:14:53 -InfoServ-	[New connect modes] Notice from r00t, posted 16:57 on 09/05/2018:
+Dec 26 17:14:53 -InfoServ-	We now set usermode +R by default when you connect to SpotChat. This means PMs from unregistered users are blocked. This is a good time to register with SpotChat services if you haven't already. See /msg NickServ help REGISTER   for help with that, or go to the #SpotChat channel.
+Dec 26 17:14:53 -InfoServ-	[SASL Authentication mechanisms] Notice from r00t, posted 01:24 on 03/05/2015:
+Dec 26 17:14:53 -InfoServ-	DH-BLOWFISH and DH-AES is no longer supported. If you are using any of these, please switch to either PLAIN or ECDSA-NIST256p-CHALLENGE
+Dec 26 17:14:53 -InfoServ-	*** End of Message(s) of the Day ***
+Dec 26 17:14:53 -NickServ-	Welcome to SpotChat, computer! Here on SpotChat, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ HELP and /msg ChanServ HELP
+**** ENDING LOGGING AT Thu Dec 26 17:14:59 2019
+
