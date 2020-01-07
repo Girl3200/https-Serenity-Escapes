@@ -88,3 +88,36 @@ git config --global user.email"raedawnlong@gmail.com"
 git config --list
 nano ~/.gitconfig
 sudo snap install --classic code # or code-insiders
+git init
+git config --global --list
+git init
+git clone <https://github.com/Girl3200/https-Serenity-Escapes.git>
+git clone <repository path>
+git clone <https://github.com/Girl3200/https-Serenity-Escapes.git>
+git clone https://github.com/Girl3200/https-Serenity-Escapes.git
+git checkout master
+git checkout Girl3200/https-Serenity-Escapes/
+git checkout master
+git init
+git rein
+git help
+git clone git@github.com:Girl3200/https-Serenity-Escapes.git
+git init
+src/api/git.d.ts
+git pull
+git branch --set upstream-to=<remote/<branch> master
+git pull (1)
+git@github.com:Girl3200/https-Serenity-Escapes.git
+git branch --set upstream-to=git@github.com:Girl3200/https-Serenity-Escapes.git
+qwikLABS-L640-10952374.pem
+Private RSA Key
+Strength: 2048 bits
+Algorithm:RSA
+Size:2048
+Fingerprints
+SHA1:8F DE 11 B0 EE 5C EE AD 1B 77 5F 17 54 5D 05 87 E2 C4 BB 6D
+SHA256:94 51 0A 80 34 1B D8 E0 BB A6 45 41 FA 50 96 14 B7 1F 6E 1F 7C 06 A6 98 67 1A C8 4F 11 18 96 D6
+chmod 600 ~/Downloads/qwikLABS-XXXXX.pem
+ssh -i ~/Downloads/qwikLABS-XXXXX.pem username@External Ip Address
+chmod 600 ~/Downloads/qwikLABS-L640-10952374.pem
+ssh -i ~/Downloads/qwikLABS-L640-10952374.pem student-01-673aaf26dfd6@35.192.18.49

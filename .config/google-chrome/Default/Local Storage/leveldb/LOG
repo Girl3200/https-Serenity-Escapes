@@ -1,15 +1,3 @@
-2019/12/26-21:29:12.735 7d7 Reusing MANIFEST /home/computer/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2019/12/26-21:29:12.735 7d7 Recovering log #80
-2019/12/26-21:29:12.736 7d7 Reusing old log /home/computer/.config/google-chrome/Default/Local Storage/leveldb/000080.log 
-2019/12/26-21:32:41.164 8fb Level-0 table #84: started
-2019/12/26-21:32:41.174 8fb Level-0 table #84: 14527 bytes OK
-2019/12/26-21:32:41.180 8fb Delete type=0 #80
-2019/12/26-21:32:41.180 8fb Compacting 4@0 + 1@1 files
-2019/12/26-21:32:41.237 8fb Generated table #85@0: 1245 keys, 888525 bytes
-2019/12/26-21:32:41.237 8fb Compacted 4@0 + 1@1 files => 888525 bytes
-2019/12/26-21:32:41.246 8fb compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/12/26-21:32:41.247 8fb Delete type=2 #81
-2019/12/26-21:32:41.247 8fb Delete type=2 #74
-2019/12/26-21:32:41.247 8fb Delete type=2 #79
-2019/12/26-21:32:41.247 8fb Delete type=2 #76
-2019/12/26-21:32:41.247 8fb Delete type=2 #84
+2020/01/07-18:23:46.137 756 Reusing MANIFEST /home/computer/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/01/07-18:23:46.137 756 Recovering log #227
+2020/01/07-18:23:46.137 756 Reusing old log /home/computer/.config/google-chrome/Default/Local Storage/leveldb/000227.log 

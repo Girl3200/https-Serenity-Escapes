@@ -1,3 +1,3 @@
-2019/12/22-21:56:12.703 1598 Reusing MANIFEST /home/computer/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/12/22-21:56:12.704 1598 Recovering log #4
-2019/12/22-21:56:12.714 1598 Reusing old log /home/computer/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2020/01/06-14:31:37.543 b33 Reusing MANIFEST /home/computer/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/01/06-14:31:37.544 b33 Recovering log #22
+2020/01/06-14:31:37.557 b33 Reusing old log /home/computer/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000022.log 

@@ -33,108 +33,107 @@ dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/Di
 dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
 dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
-** Message: 16:19:13.205: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
-** Message: 16:19:13.205: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
-** Message: 16:19:13.207: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
-[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+** Message: 11:50:26.002: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 11:50:26.003: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
+** Message: 11:50:26.005: couldn't access control socket: /run/user/1000/keyring/control: No such file or directory
 [cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
 
-(nm-applet:1385): Gtk-WARNING **: 16:19:14.740: Can't set a parent on widget which has a parent
-Cjs-Message: 16:19:14.838: JS LOG: About to start Cinnamon
-Cjs-Message: 16:19:14.909: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 68 ms
-** Message: 16:19:14.912: nemo-desktop: session is cinnamon, establishing proxy
-Cjs-Message: 16:19:14.917: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
-Cjs-Message: 16:19:14.944: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
-Cjs-Message: 16:19:15.036: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
-St-Message: 16:19:15.039: cogl npot texture sizes SUPPORTED
-Cjs-Message: 16:19:15.046: JS LOG: [LookingGlass/info] loaded at Thu Dec 26 2019 16:19:15 GMT-0500 (EST)
-Cjs-Message: 16:19:15.046: JS LOG: Cinnamon started at Thu Dec 26 2019 16:19:15 GMT-0500 (EST)
-Cjs-Message: 16:19:15.071: JS LOG: [LookingGlass/info] ExtensionSystem started in 0 ms
-Cjs-Message: 16:19:15.071: JS LOG: [LookingGlass/info] DeskletManager started in 0 ms
-Cjs-Message: 16:19:15.072: JS LOG: [LookingGlass/info] SearchProviderManager started in 2 ms
+(nm-applet:1379): Gtk-WARNING **: 11:50:27.448: Can't set a parent on widget which has a parent
+Cjs-Message: 11:50:27.511: JS LOG: About to start Cinnamon
+Cjs-Message: 11:50:27.585: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 72 ms
+Cjs-Message: 11:50:27.592: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+** Message: 11:50:27.611: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 11:50:27.623: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+Cjs-Message: 11:50:27.737: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
+St-Message: 11:50:27.740: cogl npot texture sizes SUPPORTED
+Cjs-Message: 11:50:27.750: JS LOG: [LookingGlass/info] loaded at Tue Jan 07 2020 11:50:27 GMT-0500 (EST)
+Cjs-Message: 11:50:27.751: JS LOG: Cinnamon started at Tue Jan 07 2020 11:50:27 GMT-0500 (EST)
+Cjs-Message: 11:50:27.775: JS LOG: [LookingGlass/info] ExtensionSystem started in 0 ms
+Cjs-Message: 11:50:27.775: JS LOG: [LookingGlass/info] DeskletManager started in 0 ms
+Cjs-Message: 11:50:27.775: JS LOG: [LookingGlass/info] SearchProviderManager started in 0 ms
 openGL version 4.5 detected (GL3 Cogl Driver)
 MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
-Cjs-Message: 16:19:15.200: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 36 ms
-Cjs-Message: 16:19:15.210: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 10 ms
-Cjs-Message: 16:19:15.251: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 40 ms
-Cjs-Message: 16:19:15.257: JS LOG: [LookingGlass/info] Role locked: tray
-Cjs-Message: 16:19:15.259: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 8 ms
-Cjs-Message: 16:19:15.286: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 26 ms
-Cjs-Message: 16:19:15.293: JS LOG: [LookingGlass/info] Role locked: notifications
-Cjs-Message: 16:19:15.313: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 26 ms
-Cjs-Message: 16:19:15.334: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 22 ms
-Cjs-Message: 16:19:15.358: JS LOG: [LookingGlass/info] Role locked: panellauncher
-Cjs-Message: 16:19:15.361: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 26 ms
-Cjs-Message: 16:19:15.449: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 88 ms
-Cjs-Message: 16:19:15.475: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 26 ms
-Cjs-Message: 16:19:15.911: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 436 ms
-Cjs-Message: 16:19:15.912: JS LOG: [LookingGlass/info] AppletManager started in 864 ms
-Cjs-Message: 16:19:15.914: JS LOG: [LookingGlass/info] Cinnamon took 1076 ms to start
-Cjs-Message: 16:19:15.930: JS LOG: Unknown network device type, is 14
+Cjs-Message: 11:50:27.906: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 38 ms
+Cjs-Message: 11:50:27.916: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 10 ms
+Cjs-Message: 11:50:27.951: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 34 ms
+Cjs-Message: 11:50:27.956: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 11:50:27.958: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 8 ms
+Cjs-Message: 11:50:27.985: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 26 ms
+Cjs-Message: 11:50:27.993: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 11:50:28.013: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 28 ms
+Cjs-Message: 11:50:28.035: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 22 ms
+Cjs-Message: 11:50:28.060: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 11:50:28.063: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 28 ms
+Cjs-Message: 11:50:28.149: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 86 ms
+Cjs-Message: 11:50:28.187: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 38 ms
+Cjs-Message: 11:50:28.678: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 492 ms
+Cjs-Message: 11:50:28.679: JS LOG: [LookingGlass/info] AppletManager started in 928 ms
+Cjs-Message: 11:50:28.682: JS LOG: [LookingGlass/info] Cinnamon took 1170 ms to start
+Cjs-Message: 11:50:28.697: JS LOG: Unknown network device type, is 14
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:15.941: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:28.774: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:15.941: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:28.774: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-WARNING **: 16:19:15.964: Can't set a parent on widget which has a parent
+(nm-applet:1379): Gtk-WARNING **: 11:50:28.800: Can't set a parent on widget which has a parent
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:15.979: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:28.814: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:15.979: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:28.814: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-WARNING **: 16:19:15.996: Can't set a parent on widget which has a parent
+(nm-applet:1379): Gtk-WARNING **: 11:50:28.831: Can't set a parent on widget which has a parent
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:16.068: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:28.887: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:16.069: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:28.887: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-WARNING **: 16:19:16.084: Can't set a parent on widget which has a parent
-Cjs-Message: 16:19:16.438: JS LOG: [LookingGlass/info] Hiding systray: network
-
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:17.155: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
-
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:17.155: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
-Nemo-Share-Message: 16:19:17.156: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
+(nm-applet:1379): Gtk-WARNING **: 11:50:28.898: Can't set a parent on widget which has a parent
+Cjs-Message: 11:50:28.983: JS LOG: [LookingGlass/info] Hiding systray: network
+Nemo-Share-Message: 11:50:29.890: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
 net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
 Please ask your system administrator to enable user sharing.
 
 
-(nm-applet:1385): Gtk-WARNING **: 16:19:17.172: Can't set a parent on widget which has a parent
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:30.004: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:17.188: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:30.004: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:17.188: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-WARNING **: 11:50:30.023: Can't set a parent on widget which has a parent
 
-(nm-applet:1385): Gtk-WARNING **: 16:19:17.206: Can't set a parent on widget which has a parent
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:30.040: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:17.218: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:30.040: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:17.218: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-WARNING **: 11:50:30.059: Can't set a parent on widget which has a parent
 
-(nm-applet:1385): Gtk-WARNING **: 16:19:17.231: Can't set a parent on widget which has a parent
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:30.076: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:19.280: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:30.076: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:19:19.280: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-WARNING **: 11:50:30.096: Can't set a parent on widget which has a parent
 
-(nm-applet:1385): Gtk-WARNING **: 16:19:19.290: Can't set a parent on widget which has a parent
-Cjs-Message: 16:19:19.848: JS LOG: [LookingGlass/info] Adding systray: blueberry-tray.py (24x24px)
-Cjs-Message: 16:19:19.849: JS LOG: [LookingGlass/info] Resized blueberry-tray.py with normalized size (24x24px)
-Cjs-Message: 16:19:34.931: JS LOG: [LookingGlass/info] Adding systray: mintupdate.py (24x24px)
-Cjs-Message: 16:19:34.933: JS LOG: [LookingGlass/info] Resized mintupdate.py with normalized size (24x24px)
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:31.133: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:23:31.966: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:50:31.133: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:23:31.966: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-WARNING **: 11:50:31.145: Can't set a parent on widget which has a parent
+Cjs-Message: 11:50:32.824: JS LOG: [LookingGlass/info] Adding systray: blueberry-tray.py (24x24px)
+Cjs-Message: 11:50:32.825: JS LOG: [LookingGlass/info] Resized blueberry-tray.py with normalized size (24x24px)
+Cjs-Message: 11:50:47.915: JS LOG: [LookingGlass/info] Adding systray: mintupdate.py (24x24px)
+Cjs-Message: 11:50:47.915: JS LOG: [LookingGlass/info] Resized mintupdate.py with normalized size (24x24px)
 
-(nm-applet:1385): Gtk-WARNING **: 16:23:31.973: Can't set a parent on widget which has a parent
+(nm-applet:1379): Gtk-CRITICAL **: 11:54:44.660: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:23:31.978: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-CRITICAL **: 11:54:44.660: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
 
-(nm-applet:1385): Gtk-CRITICAL **: 16:23:31.978: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+(nm-applet:1379): Gtk-WARNING **: 11:54:44.666: Can't set a parent on widget which has a parent
 
-(nm-applet:1385): Gtk-WARNING **: 16:23:31.981: Can't set a parent on widget which has a parent
-Cjs-Message: 16:45:46.806: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+(nm-applet:1379): Gtk-CRITICAL **: 11:54:44.672: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1379): Gtk-CRITICAL **: 11:54:44.672: gtk_widget_destroy: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(nm-applet:1379): Gtk-WARNING **: 11:54:44.674: Can't set a parent on widget which has a parent
+Cjs-Message: 12:01:14.146: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
 overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:103:42
 overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:127:13
 MessageTray.prototype._updateNotificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1781:13
@@ -152,7 +151,7 @@ NotificationDaemon.prototype.NotifyAsync@/usr/share/cinnamon/js/ui/notificationD
 _handleMethodCall@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:295:9
 _wrapJSObject/<@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:326:16
 
-Cjs-Message: 16:45:47.188: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+Cjs-Message: 12:01:14.642: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
 overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:103:42
 overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:127:13
 MessageTray.prototype._updateNotificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1781:13
@@ -165,20 +164,7 @@ NotificationDaemon.prototype.CloseNotification@/usr/share/cinnamon/js/ui/notific
 _handleMethodCall@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:256:22
 _wrapJSObject/<@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:326:16
 
-Cjs-Message: 16:45:47.659: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
-overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:103:42
-overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:127:13
-MessageTray.prototype._updateNotificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1781:13
-MessageTray.prototype._onNotificationDestroy@/usr/share/cinnamon/js/ui/messageTray.js:1525:13
-_emit@resource:///org/cinnamon/cjs/modules/signals.js:142:27
-Notification.prototype._onDestroy@/usr/share/cinnamon/js/ui/messageTray.js:1026:9
-destroy@/usr/share/cinnamon/js/ui/environment.js:118:13
-Notification.prototype.destroy@/usr/share/cinnamon/js/ui/messageTray.js:1031:9
-NotificationDaemon.prototype.CloseNotification@/usr/share/cinnamon/js/ui/notificationDaemon.js:507:17
-_handleMethodCall@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:256:22
-_wrapJSObject/<@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:326:16
-
-Cjs-Message: 16:45:48.017: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+Cjs-Message: 12:01:15.051: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
 overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:103:42
 overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:127:13
 MessageTray.prototype._updateNotificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1781:13
@@ -196,73 +182,43 @@ NotificationDaemon.prototype.NotifyAsync@/usr/share/cinnamon/js/ui/notificationD
 _handleMethodCall@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:295:9
 _wrapJSObject/<@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:326:16
 
-shm_open() failed: Permission denied
-Error org.freedesktop.DBus.Error.Failed: cannot use setting "default-url-scheme-handler": not allowed
-Error org.freedesktop.DBus.Error.Failed: cannot use setting "default-url-scheme-handler": not allowed
-Option 'sandbox' is unknown. Ignoring.
-[2820:1226/165622.106380:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-bash: cannot set terminal process group (-1): Inappropriate ioctl for device
-bash: no job control in this shell
-[2820:1226/165625.095462:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
-Gtk-Message: 16:57:03.446: GtkDialog mapped without a transient parent. This is discouraged.
-Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3600003 (Authentica)
-Cjs-Message: 16:57:17.853: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
-Gtk-Message: 16:57:38.854: GtkDialog mapped without a transient parent. This is discouraged.
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-Cjs-Message: 16:59:58.615: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-Option 'sandbox' is unknown. Ignoring.
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-/snap/github-desktop/63/app/github-desktop: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0: undefined symbol: g_date_copy
-Gtk-Message: 17:09:25.443: GtkDialog mapped without a transient parent. This is discouraged.
-Cjs-Message: 17:14:47.929: JS LOG: [LookingGlass/info] Adding systray: hexchat (24x24px)
-Cjs-Message: 17:14:47.931: JS LOG: [LookingGlass/info] Resized hexchat with normalized size (24x24px)
-Gtk-Message: 17:49:55.248: GtkDialog mapped without a transient parent. This is discouraged.
-Gtk-Message: 17:49:57.983: GtkDialog mapped without a transient parent. This is discouraged.
-Gtk-Message: 17:50:01.887: GtkDialog mapped without a transient parent. This is discouraged.
-Cinnamon warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x5200085 (Cycligent )
-Gtk-Message: 18:09:07.866: GtkDialog mapped without a transient parent. This is discouraged.
-Nemo-Share-Message: 18:12:43.270: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
-net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
-Please ask your system administrator to enable user sharing.
-
-[8675:8675:1226/181403.314175:ERROR:broker_posix.cc(43)] Invalid node channel message
-Cjs-Message: 18:14:45.506: JS LOG: [LookingGlass/info] PlacesManager: Updating devices
-
-(nemo-desktop:1384): CinnamonDesktop-WARNING **: 18:16:25.717: Unable to create loader for mime type video/mp4: Unrecognized image file format
-
-(nemo-desktop:1384): CinnamonDesktop-WARNING **: 18:16:25.717: Error creating thumbnail for file:///home/computer/Desktop/abbie-bernet-5BnLjFXTnmE-unsplash_Large.mp4: Unrecognized image file format
-
-(nemo:8276): CinnamonDesktop-WARNING **: 18:17:21.015: Unable to create loader for mime type video/mp4: Unrecognized image file format
-
-(nemo:8276): CinnamonDesktop-WARNING **: 18:17:21.016: Error creating thumbnail for file:///home/computer/Desktop/Serenity-Escapes-Updated-Version/abbie-bernet-5BnLjFXTnmE-unsplash_Large.mp4: Unrecognized image file format
-Nemo-Share-Message: 18:47:38.388: Called "net usershare info" but it failed: 'net usershare' returned error 255: mkdir failed on directory /var/run/samba/msg.lock: Permission denied
-net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
-Please ask your system administrator to enable user sharing.
+Cjs-Message: 12:01:15.511: JS LOG: [LookingGlass/warning] Invalid or null source id used when attempting to run Mainloop.source_remove()
+overrideDumpStack/global.dump_gjs_stack@/usr/share/cinnamon/js/ui/overrides.js:103:42
+overrideMainloop/Mainloop.source_remove@/usr/share/cinnamon/js/ui/overrides.js:127:13
+MessageTray.prototype._updateNotificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1781:13
+MessageTray.prototype._onNotificationDestroy@/usr/share/cinnamon/js/ui/messageTray.js:1525:13
+_emit@resource:///org/cinnamon/cjs/modules/signals.js:142:27
+Notification.prototype._onDestroy@/usr/share/cinnamon/js/ui/messageTray.js:1026:9
+destroy@/usr/share/cinnamon/js/ui/environment.js:118:13
+Notification.prototype.destroy@/usr/share/cinnamon/js/ui/messageTray.js:1031:9
+NotificationDaemon.prototype.CloseNotification@/usr/share/cinnamon/js/ui/notificationDaemon.js:507:17
+_handleMethodCall@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:256:22
+_wrapJSObject/<@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:326:16
 
 
-(nemo:8276): CinnamonDesktop-WARNING **: 18:47:41.937: Unable to create loader for mime type video/mp4: Unrecognized image file format
+(cinnamon:1340): Cjs-WARNING **: 12:01:23.925: JS ERROR: TypeError: this._notification is null
+MessageTray.prototype._notificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1793:1
 
-(nemo:8276): CinnamonDesktop-WARNING **: 18:47:41.937: Error creating thumbnail for file:///media/computer/STORE%20N%20GO/GitHub/SerenityEscapes/images/abbie-bernet-5BnLjFXTnmE-unsplash_Large.mp4: Unrecognized image file format
-[12010:12010:1226/185139.070318:ERROR:broker_posix.cc(43)] Invalid node channel message
-Cjs-Message: 19:24:48.256: JS WARNING: [/usr/share/cinnamon/js/misc/fileUtils.js line 210 > Function 628]: reference to undefined property 0
 
-(cinnamon:1350): Cjs-WARNING **: 19:24:48.257: JS ERROR: TypeError: value[0] is undefined
-anonymous/_dbus_acquired/<@/usr/share/cinnamon/applets/sound@cinnamon.org/applet.js:628:13
-_proxyInvoker/asyncCallback@resource:///org/cinnamon/cjs/modules/overrides/Gio.js:74:13
+(cinnamon:1340): Cjs-WARNING **: 12:01:24.345: JS ERROR: TypeError: this._notification is null
+MessageTray.prototype._notificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1793:1
 
-Gtk-Message: 19:55:22.103: GtkDialog mapped without a transient parent. This is discouraged.
-cinnamon-session[1048]: WARNING: t+12970.59654s: Playing logout sound '/usr/share/mint-artwork/sounds/logout.ogg'
-cinnamon-session[1048]: WARNING: t+12970.68258s: Finished playing logout sound
-cinnamon-session[1048]: WARNING: t+12970.68264s: Resuming logout sequence...
-cinnamon-session[1048]: GLib-GIO-CRITICAL: t+12971.62791s: g_dbus_connection_call_sync_internal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
-cinnamon-session[1048]: WARNING: t+12971.62800s: Requesting system shutdown...
-cinnamon-session[1048]: WARNING: t+12971.62809s: Attempting to shutdown using systemd...
+
+(cinnamon:1340): Cjs-WARNING **: 12:01:24.750: JS ERROR: TypeError: this._notification is null
+MessageTray.prototype._notificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1793:1
+
+
+(cinnamon:1340): Cjs-WARNING **: 12:01:25.167: JS ERROR: TypeError: this._notification is null
+MessageTray.prototype._notificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1793:1
+
+
+(cinnamon:1340): Cjs-WARNING **: 12:01:25.563: JS ERROR: TypeError: this._notification is null
+MessageTray.prototype._notificationTimeout@/usr/share/cinnamon/js/ui/messageTray.js:1793:1
+
+Gtk-Message: 13:12:35.334: GtkDialog mapped without a transient parent. This is discouraged.
+cinnamon-session[1042]: WARNING: t+4931.59297s: Playing logout sound '/usr/share/mint-artwork/sounds/logout.ogg'
+cinnamon-session[1042]: WARNING: t+4931.68596s: Finished playing logout sound
+cinnamon-session[1042]: WARNING: t+4931.68601s: Resuming logout sequence...
+cinnamon-session[1042]: GLib-GIO-CRITICAL: t+4932.63242s: g_dbus_connection_call_sync_internal: assertion 'G_IS_DBUS_CONNECTION (connection)' failed
+cinnamon-session[1042]: WARNING: t+4932.63352s: Requesting system shutdown...
+cinnamon-session[1042]: WARNING: t+4932.63363s: Attempting to shutdown using systemd...

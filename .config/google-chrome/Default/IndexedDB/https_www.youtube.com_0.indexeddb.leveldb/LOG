@@ -1,3 +1,3 @@
-2019/12/27-00:08:32.800 171b Reusing MANIFEST /home/computer/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/12/27-00:08:32.800 171b Recovering log #3
-2019/12/27-00:08:32.807 171b Reusing old log /home/computer/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2020/01/07-18:23:49.314 780 Reusing MANIFEST /home/computer/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/01/07-18:23:49.314 780 Recovering log #3
+2020/01/07-18:23:49.345 780 Reusing old log /home/computer/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
